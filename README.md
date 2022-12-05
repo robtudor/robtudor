@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robtudor
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 📫 How to reach me ... robtudor@me.com
 
 <!---
 robtudor/robtudor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
